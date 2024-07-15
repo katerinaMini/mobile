@@ -6,6 +6,8 @@ from sklearn.preprocessing import MinMaxScaler
 import pickle
 import plotly.express as px
 
+st.write("If you see this message, imports are successful!")
+
 
 # Настройка страницы
 st.set_page_config(
